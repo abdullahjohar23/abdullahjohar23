@@ -1,20 +1,17 @@
 <h1 align="center">Hi, I'm Abdullah Johar👋</h1>
 <h3 align="center">A passionate Flutter App Developer</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif" />
+<p>🌱 I’m currently learning <strong>Dart & Flutter</strong></p>
+<p>📄 Know about my experiences <a href="https://drive.google.com/file/d/1v94own6Bm_9MlUuUF-xUON6oNGmuaZye/view?usp=sharing">My Resume</a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahjohar23&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahjohar23" /> </p>
+<img align="right" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif" alt="Profile GIF">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahjohar23" alt="abdullahjohar23" /></a> </p>
-
-- 🌱 I’m currently learning **Dart & Flutter**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v94own6Bm_9MlUuUF-xUON6oNGmuaZye/view?usp=sharing](https://drive.google.com/file/d/1v94own6Bm_9MlUuUF-xUON6oNGmuaZye/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdullah-johar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-johar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abdullahjohar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdullahjohar23" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@abdullahjohar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdullahjohar23" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abdullahjohar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abdullahjohar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdullahjohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdullahjohar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abdullah_johar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdullah_johar" height="30" width="40" /></a>
