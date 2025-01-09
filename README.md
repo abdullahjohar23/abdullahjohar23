@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter App Developer</h3>
 
 <p>🌱 I’m currently learning <strong>Dart & Flutter</strong></p>
-<p>📄 Know about my experiences <a href="https://drive.google.com/file/d/1v94own6Bm_9MlUuUF-xUON6oNGmuaZye/view?usp=sharing">My Resume</a></p>
+<p>📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1RzCmfzT5Va06BOaeZI9X-ugWsRuFulKs?usp=sharing">My Resume</a></p>
 
 <img align="right" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif" alt="Profile GIF">
 
