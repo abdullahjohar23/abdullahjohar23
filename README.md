@@ -16,6 +16,16 @@
 - 📄 Know About my experiences [View Resume](https://drive.google.com/drive/folders/1Ryla_FSZrqKBYpVUOfaXDq-DxnnffhaZ?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
+
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/abdullah-johar/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" height="40" alt="javascript logo"/>
+    </a>
+    <img width="12"/>
+</div>
+
+
 <p align="left">
 <a href="https://linkedin.com/in/abdullah-johar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-johar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdullahjohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullahjohar" height="30" width="40" /></a>
