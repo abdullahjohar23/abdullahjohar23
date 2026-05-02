@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdullah Johar</h1>
-<h3 align="center">Problem Solver | Mentor | Flutter Developer</h3>
+<h3 align="center">Flutter Developer | Problem Solver | Mentor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahjohar23&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahjohar23" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=abdullahjohar23&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahjohar23"/> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahjohar23" alt="abdullahjohar23" /></a> </p>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=abdullahjohar23" alt="abdullahjohar23"/>
+    </a>
+</p>
 
 - 🌱 I’m currently learning **Flutter & Dart**
-
-- 👨‍💻 Visit My [Portfolio](https://abdullahjohar-portfolio.netlify.app)
 
 - 📄 Know About my experiences [View Resume](https://drive.google.com/drive/folders/1Ryla_FSZrqKBYpVUOfaXDq-DxnnffhaZ?usp=sharing)
 
@@ -26,7 +28,7 @@
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" height="40" alt="javascript logo"/>
     </a>
     <img width="12"/>
-    <a href="https://www.linkedin.com/in/abdullah-johar/" target="blank">
+    <a href="https://www.linkedin.com/in/abdullah-johar/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" height="40" alt="javascript logo"/>
     </a>
     <img width="12"/>
