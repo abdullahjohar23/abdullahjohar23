@@ -19,7 +19,7 @@
 
 - 📄 Know About my experiences [View Resume](https://drive.google.com/drive/folders/1Ryla_FSZrqKBYpVUOfaXDq-DxnnffhaZ?usp=sharing)
 
-<br><br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -92,14 +92,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/abdullahjohar23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjohar23&layout=compact&theme=dark" />
+  <a>
+    <img src="https://github-readme-stats.shion.dev/api?username=abdullahjohar23&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+  </a>
+  <img width="12" />
+  <a>
+    <img src="https://streak-stats.demolab.com/?user=abdullahjohar23&amp;theme=dark&amp;hide_border=false" alt="">
+  </a>
+  <img width="12">
+  <a>
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdullahjohar23&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
   </a>
 </p>
 
-<br><br>
+<br>
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 <p align="center">
   <a href="https://github.com/abdullahjohar23">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahjohar23&theme=react-dark" />
